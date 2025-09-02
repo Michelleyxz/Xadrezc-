@@ -1,10 +1,30 @@
 Desafio de Xadrez - MateCheck
 Bem-vindo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas
 
- Nível Aventureiro
-Agora que já conseguimos mover as peças mais simples usando loops, os desenvolvedores pediram para elaborar os loops de outra forma. Para o desafio, moveremos o cavalo, que possui sua movimentação em L. O cavalo deve se movimentar para baixo e para a esquerda, usando pelo menos duas estruturas de repetição: uma deve ser for e a outra pode ser while ou do-while.
+  Nível Aventureiro — Movimentação do Cavalo em C
 
-Movimentação do Cavalo:
+Este projeto faz parte do estudo de lógica de programação em C, focando em 'loops aninhados' e movimentação de peças de xadrez.  
+O desafio do 'Nível Aventureiro' consiste em simular o 'movimento do cavalo' em “L” no tabuleiro, utilizando pelo menos duas estruturas de repetição: `for` e `while` ou `do-while`.
 
-Mover o cavalo em L utilizando loops aninhados. Obs: É obrigatório o uso de loops aninhados.
+ Objetivo
 
+- Implementar a movimentação do cavalo no xadrez (movimento em L) no console.  
+- Aplicar 'loops aninhados' para calcular todas as posições possíveis a partir de uma posição inicial.  
+- Validar se cada posição está dentro do tabuleiro 8x8.
+
+
+ Funcionalidades :
+
+- Mostra a posição inicial do cavalo.  
+- Calcula e exibe todos os movimentos possíveis do cavalo para baixo e para a esquerda.  
+- Valida cada movimento para garantir que não ultrapasse os limites do tabuleiro.  
+- Demonstra o uso combinado de `for` e `while` (ou `do-while`) em loops aninhados.
+
+ Como executar
+
+Clone o repositório:
+```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
